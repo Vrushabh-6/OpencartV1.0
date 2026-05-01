@@ -29,7 +29,7 @@ public class TC001_AccountRegisterationTest extends BaseClass
 		logger.info("Entering Last Name");
 		accRegPage.lastName("ABCD");
 		logger.info("Entering Email");
-		accRegPage.email("AB11@gmail.com");
+		accRegPage.email("AB12@gmail.com");
 		logger.info("Entering Password");
 		accRegPage.password("ABCD111");
 		logger.info("Clicking on Privacy");

@@ -386,3 +386,14 @@ java.nio.file.FileAlreadyExistsException: C:\Users\vrushabh\eclipse-workspace\Se
 2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
 2026-05-01 08:48:40 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
 2026-05-01 08:48:40 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-05-01 18:04:58 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 18:04:58 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 18:04:58 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 18:04:59 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 18:05:00 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage

@@ -1,0 +1,388 @@
+2026-04-29 22:13:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng_Grouping.xml
+
+2026-04-29 22:18:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng_Grouping.xml
+
+2026-04-29 22:24:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng_Grouping.xml
+
+2026-04-29 22:24:48 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-04-29 22:24:48 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-04-29 22:24:48 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-04-29 22:24:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-04-29 22:24:50 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-04-29 22:30:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-29 22:30:26 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-29 22:30:26 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-29 22:30:26 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on LogOut
+2026-04-29 22:30:27 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-29 22:30:28 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-29 22:30:38 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-29 22:30:38 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-29 22:30:38 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-29 22:30:39 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-29 22:30:39 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-29 22:30:39 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-29 22:30:39 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-30 20:08:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:09:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:10:29 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-04-30 20:10:29 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-04-30 20:10:29 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-04-30 20:10:29 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-04-30 20:10:30 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-04-30 20:10:31 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-04-30 20:10:32 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-04-30 20:10:32 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-04-30 20:10:33 [main] ERROR org.testng.reporters.jq.Main - C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\test-output\jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482) ~[?:?]
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3140) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.generateReports(TestNG.java:1160) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1085) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2026-04-30 20:12:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-04-30 20:12:21 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-04-30 20:12:22 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-04-30 20:12:22 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-04-30 20:12:32 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-04-30 20:17:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:17:09 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-04-30 20:17:09 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-04-30 20:17:09 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-04-30 20:17:09 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-04-30 20:17:09 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-04-30 20:17:10 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-04-30 20:17:10 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-04-30 20:17:10 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-04-30 20:17:10 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-04-30 20:17:10 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-04-30 20:17:20 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-04-30 20:22:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:22:59 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:22:59 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:22:59 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:23:00 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:23:00 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:23:00 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:23:00 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:24:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng_Master.xml
+
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:24:50 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:24:51 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-30 20:25:04 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on LogOut
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-30 20:25:05 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-30 20:25:06 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - On Home Page
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Account
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Email
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Entering Password
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Clicking on Login Button
+2026-04-30 20:25:16 [main] INFO  testCases.TC003LoginDataDrivenTesting - Checking My Account
+2026-04-30 20:25:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:25:39 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:25:39 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:25:39 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:25:39 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:25:40 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:25:40 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:25:40 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:27:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:27:45 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:27:45 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:27:45 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:27:46 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:27:46 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:27:46 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:27:46 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:29:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:29:49 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:29:49 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:29:50 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:29:50 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:29:50 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:29:50 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:29:50 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:29:51 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on LogOut
+2026-04-30 20:31:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:31:43 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:31:43 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:31:43 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:31:44 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:31:44 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:31:44 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:31:44 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:34:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:34:08 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:34:08 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:34:09 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:34:09 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:34:09 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:34:09 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:34:09 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:35:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:35:16 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:35:16 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:35:17 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:35:17 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:35:17 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:35:17 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:35:17 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:44:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:44:24 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:44:24 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:44:24 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:44:25 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:44:25 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:44:25 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:44:25 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:47:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:47:37 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:47:37 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:47:37 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:47:38 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:47:38 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:47:38 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:47:38 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:52:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:52:04 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:52:04 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:52:04 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:52:05 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:52:05 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:52:05 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:52:05 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 20:57:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 20:57:42 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 20:57:42 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 20:57:42 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 20:57:43 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 20:57:43 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 20:57:43 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 20:57:43 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 21:24:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 21:24:48 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 21:24:48 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 21:24:49 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 21:24:49 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 21:24:49 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 21:24:49 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 21:24:49 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 22:04:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 22:04:51 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 22:04:51 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 22:04:51 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 22:04:52 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 22:04:52 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 22:04:52 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 22:04:52 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 22:09:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 22:09:37 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 22:09:37 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 22:09:37 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 22:09:38 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 22:09:38 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 22:09:38 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 22:09:38 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 22:14:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 22:14:05 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 22:14:05 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 22:14:05 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 22:14:06 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 22:14:06 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 22:14:06 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 22:14:06 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 22:17:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 22:17:17 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 22:17:17 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 22:17:17 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 22:17:17 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 22:17:18 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 22:17:18 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 22:17:18 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-04-30 22:19:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vrushabh\eclipse-workspace\SeleniumAutomationTesting\OpencartV1.0\testng.xml
+
+2026-04-30 22:19:36 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-04-30 22:19:36 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-04-30 22:19:36 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-04-30 22:19:36 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-04-30 22:19:37 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-04-30 22:19:37 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-04-30 22:19:37 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-05-01 08:26:45 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-05-01 08:26:45 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-05-01 08:26:45 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-05-01 08:26:45 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-05-01 08:26:45 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-05-01 08:26:46 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-05-01 08:26:46 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-05-01 08:28:13 [main] INFO  testCases.TC002_AccountLoginTest - On Home Page
+2026-05-01 08:28:13 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Account
+2026-05-01 08:28:13 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login
+2026-05-01 08:28:13 [main] INFO  testCases.TC002_AccountLoginTest - Entering Email
+2026-05-01 08:28:13 [main] INFO  testCases.TC002_AccountLoginTest - Entering Password
+2026-05-01 08:28:14 [main] INFO  testCases.TC002_AccountLoginTest - Clicking on Login Button
+2026-05-01 08:28:14 [main] INFO  testCases.TC002_AccountLoginTest - Checking My Account
+2026-05-01 08:30:51 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 08:30:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 08:30:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 08:30:52 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 08:30:53 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 08:32:50 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 08:32:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 08:32:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 08:32:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 08:32:51 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 08:33:01 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-05-01 08:33:33 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 08:33:33 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 08:33:34 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 08:33:35 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-05-01 08:43:46 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 08:43:46 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 08:43:46 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 08:43:47 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 08:43:57 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
+2026-05-01 08:48:38 [main] INFO  testCases.TC001_AccountRegisterationTest - On Home Page
+2026-05-01 08:48:38 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Account
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Register
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - On Account Register Page
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering First Name
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Last Name
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Email
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Entering Password
+2026-05-01 08:48:39 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Privacy
+2026-05-01 08:48:40 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicking on Continue Button
+2026-05-01 08:48:40 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating the meassage
